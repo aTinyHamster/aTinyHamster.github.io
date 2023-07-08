@@ -1,4 +1,4 @@
 # github.io
 test gitpages  
 creates -> 
-[aTinyHamster.github.io]
+[https://aTinyHamster.github.io]
